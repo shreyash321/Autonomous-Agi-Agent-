@@ -18,5 +18,5 @@ Welcome to the Autonomous Agi Agent Library, where agents possess multi-agent co
 
 ## We are under developement 🧪👨🏼‍🔬
 
-We will be happy to see any valuable contributions of you which will shape the future of humanity  👨‍👧‍👧👩🏻‍🤝‍👩🏻 to this library .
+We will be happy to see any valuable contributions of you in this library which can shape the future of humanity 👨‍👧‍👧👩🏻‍🤝‍👩🏻 and llm models.
 Do Push a PR and we will reveiw and merge it as soon as we can , thanks 🐤.
