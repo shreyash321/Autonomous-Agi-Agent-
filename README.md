@@ -15,3 +15,8 @@ Welcome to the Autonomous Agi Agent Library, where agents possess multi-agent co
 
    ```bash
    pip install autonomous-agi-agent
+
+## We are under developement 🧪👨🏼‍🔬
+
+We will be happy to see any valuable contributions of you which will shape the future of humanity  👨‍👧‍👧👩🏻‍🤝‍👩🏻 to this library .
+Do Push a PR and we will reveiw and merge it as soon as we can , thanks 🐤.
